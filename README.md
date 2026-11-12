@@ -21,6 +21,7 @@ The file with the full notice text (`tenders_full.parquet`, 76 MB) is attached t
 [2026-10 release](https://github.com/Malodar/government-tenders-data/releases/tag/2026-10).
 
 The same dataset is on Kaggle: [Government Tenders and Awards, October 2026](https://www.kaggle.com/datasets/artsiomkunitsyn/government-tenders-and-awards-october-2026).
+Starter notebook: [What did governments buy in October 2026?](https://www.kaggle.com/code/artsiomkunitsyn/what-did-governments-buy-in-october-2026)
 
 ## Get the full, current data
 
