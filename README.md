@@ -20,6 +20,8 @@ print(tenders.groupby(["source", "notice_category"]).size())
 The file with the full notice text (`tenders_full.parquet`, 76 MB) is attached to the
 [2026-10 release](https://github.com/Malodar/government-tenders-data/releases/tag/2026-10).
 
+The same dataset is on Kaggle: [Government Tenders and Awards, October 2026](https://www.kaggle.com/datasets/artsiomkunitsyn/government-tenders-and-awards-october-2026).
+
 ## Get the full, current data
 
 This is a snapshot of one month. The same data up to yesterday, with filters for country, CPV or NAICS code, keywords and contract value, comes from the [Government Tenders Scraper](https://apify.com/artsiom_k/government-tenders-scraper) on Apify (pay per result). [Tender Alerts](https://apify.com/artsiom_k/tender-alerts) returns only the new notices that match your saved searches. `examples/` shows how to run it from Python.
