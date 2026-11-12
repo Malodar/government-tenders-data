@@ -1,0 +1,10 @@
+source,name,coverage,notices,tenders,awards,licence,credit,website
+ted,TED (Tenders Electronic Daily),"EU and EEA, above-threshold notices",82148,41772,33995,CC BY 4.0,"Contains information from TED, © European Union, licensed under CC BY 4.0",https://ted.europa.eu
+de_oeffentlichevergabe,Bekanntmachungsservice (oeffentlichevergabe.de),"Germany, including notices below the EU threshold",24357,15882,7377,CC0 1.0,"Source: Bekanntmachungsservice, Datenservice Öffentlicher Einkauf (CC0)",https://oeffentlichevergabe.de
+sam_gov,SAM.gov Contract Opportunities,"United States, federal",21129,13940,2691,US government work (public domain),"Source: SAM.gov Contract Opportunities data extract, U.S. General Services Administration",https://sam.gov
+fr_boamp,BOAMP,"France, including notices below the EU threshold",11317,8108,2703,Licence Ouverte 2.0 (Etalab),"Source: BOAMP, DILA (Direction de l'information légale et administrative), Licence Ouverte 2.0",https://www.boamp.fr
+uk_find_a_tender,Find a Tender,"United Kingdom, higher-value notices",10362,2288,6608,Open Government Licence v3.0,Contains public sector information licensed under the Open Government Licence v3.0,https://www.find-tender.service.gov.uk
+au_austender,AusTender,"Australia, federal contract awards",3906,0,3906,CC BY 3.0 AU,"Source: AusTender, © Commonwealth of Australia (Department of Finance), CC BY 3.0 AU",https://www.tenders.gov.au
+uk_contracts_finder,Contracts Finder,"United Kingdom, lower-value notices",3263,196,3039,Open Government Licence v3.0,Contains public sector information licensed under the Open Government Licence v3.0,https://www.contractsfinder.service.gov.uk
+at_kerndaten,Kerndaten (data.gv.at),"Austria, mostly contract awards, including below threshold",2006,640,1346,CC BY 4.0,"Source: Kerndaten der Vergabeverfahren via data.gv.at, CC BY 4.0",https://www.data.gv.at
+ca_canadabuys,CanadaBuys,"Canada, federal tenders and awards",1247,571,611,Open Government Licence - Canada 2.0,Contains information licensed under the Open Government Licence - Canada,https://canadabuys.canada.ca
